@@ -48,3 +48,13 @@
     font-size: 16px;
   }
 }
+/* ===============================
+   EDUCATION LOGO SIZE FIX
+   =============================== */
+
+.education-card-logo img {
+  width: 160px;        /* 🔥 BIGGER LOGO */
+  height: auto;        /* keep aspect ratio */
+  border-radius: 10px; /* 🔥 remove circular look */
+  object-fit: contain;
+}
