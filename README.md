@@ -81,3 +81,48 @@ npm install
 Start development server:
 
 npm start
+
+🚀 Deployment (GitHub Pages)
+
+This project is deployed using gh-pages.
+
+To deploy:
+
+npm run build
+npm run deploy
+
+
+Make sure your package.json contains:
+
+"homepage": "https://omraja653.github.io/om-raja-portfolio"
+
+📬 Contact Me
+
+📧 Email: rajaom653@gmail.com
+
+📞 Phone: +91 7875498243
+
+📍 Location: Pune, India
+
+You can also reach out via the contact form on the website.
+
+📄 Resume
+
+My resume is available for download directly from the website.
+
+📸 Preview
+
+Visit the live website to see the full experience.
+
+🙏 Acknowledgements
+
+React community
+
+Open-source libraries used in this project
+
+MIT-WPU for continuous learning opportunities
+
+© 2026 Om Raja
+
+Built with curiosity, code & caffeine ☕💻
+Feel free to fork, explore, or give feedback!
