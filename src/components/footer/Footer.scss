@@ -1,30 +1,26 @@
 @import "../../_globalColor";
 
-.footer-text {
-  text-align: center;
-  color: $subTitle !important;
-}
-
-.dark-mode {
-  color: $textColorDark !important;
-}
+/* ===============================
+   FOOTER BASE
+   =============================== */
 
 .footer-div {
   margin-top: 2rem;
   padding-bottom: 1rem;
+  text-align: center;
 }
-/* ===============================
-   FOOTER COLOR FIX (THEME BASED)
-   =============================== */
 
-/* Light Theme */
 .footer-text,
 .footer-text a {
-  color: #000000 !important;
+  color: #000000 !important; /* Light theme */
+  text-decoration: none;
 }
 
-/* Dark Theme */
-.dark-footer .footer-text,
-.dark-footer .footer-text a {
+/* ===============================
+   DARK MODE FOOTER
+   =============================== */
+
+.dark-mode .footer-text,
+.dark-mode .footer-text a {
   color: #ffffff !important;
 }

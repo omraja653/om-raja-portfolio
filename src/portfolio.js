@@ -24,7 +24,7 @@ const greeting = {
   subTitle: emoji(
     "Electrical & Computer Engineering student 🚀 interested in Web Development, AI applications, and Blockchain-based systems."
   ),
-  resumeLink: "/resume/Om_Raja_Resume_2025.pdf", // ✅ Resume link added
+  resumeLink: "/resume/Om_Raja_Resume_2025.pdf",
   displayGreeting: true
 };
 
@@ -47,7 +47,6 @@ const skillsSection = {
     emoji("⚡ Java programming with Data Structures and Algorithms"),
     emoji("⚡ Embedded systems fundamentals")
   ],
-
   softwareSkills: [
     { skillName: "HTML5", fontAwesomeClassname: "fab fa-html5" },
     { skillName: "CSS3", fontAwesomeClassname: "fab fa-css3-alt" },
@@ -78,9 +77,7 @@ const techStack = {
   displayCodersrank: false
 };
 
-/* ===============================
-   ACADEMIC PROJECTS
-   =============================== */
+/* Academic Projects */
 const bigProjects = {
   title: "Academic Projects",
   subtitle: "Click on a project to view detailed information",
