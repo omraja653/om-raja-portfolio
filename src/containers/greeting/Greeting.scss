@@ -3,14 +3,14 @@
 .main {
   width: 90%;
   padding: 20px 10px;
-  margin: 0px auto;
+  margin: 0 auto;
   margin-top: 4rem;
 }
 
 .greet-main {
   width: 90%;
   padding: 20px 10px;
-  margin: 0px auto;
+  margin: 0 auto;
   margin-top: 2rem;
 }
 
@@ -41,19 +41,19 @@
 }
 
 /* ===============================
-   GREETING TITLE – THEME FIX
+   GREETING TEXT COLOR FIX
    =============================== */
 
-/* Light Theme (default) */
+/* Light theme */
 .greeting-text {
   font-size: 70px;
   line-height: 1.1;
-  color: #000000 !important;
+  color: $textColor !important; // black in light theme
 }
 
-/* Dark Theme */
-.dark-mode .greeting-text {
-  color: #ffffff !important;
+/* Dark theme */
+.dark-mode.greeting-text {
+  color: $textColorDark !important; // white in dark theme
 }
 
 .greeting-text-p {
@@ -66,7 +66,6 @@
   height: auto;
 }
 
-/* Wave emoji animation */
 .wave-emoji {
   animation-duration: 1.8s;
   animation-iteration-count: infinite;
@@ -76,31 +75,17 @@
 }
 
 @keyframes wave {
-  0% {
-    transform: rotate(0deg);
-  }
-  10% {
-    transform: rotate(-10deg);
-  }
-  20% {
-    transform: rotate(12deg);
-  }
-  30% {
-    transform: rotate(-10deg);
-  }
-  40% {
-    transform: rotate(9deg);
-  }
-  50% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(0deg);
-  }
+  0% { transform: rotate(0deg); }
+  10% { transform: rotate(-10deg); }
+  20% { transform: rotate(12deg); }
+  30% { transform: rotate(-10deg); }
+  40% { transform: rotate(9deg); }
+  50% { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
 }
 
 /* ===============================
-   RESPONSIVE FIXES
+   RESPONSIVE
    =============================== */
 
 @media (max-width: 1380px) {
