@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/om-raja-portfolio/static/css/main.c9056e00.css",
-    "main.js": "/om-raja-portfolio/static/js/main.7efe5c75.js",
+    "main.js": "/om-raja-portfolio/static/js/main.b7811977.js",
     "static/css/64.c7010ee8.chunk.css": "/om-raja-portfolio/static/css/64.c7010ee8.chunk.css",
     "static/js/64.7e8463d4.chunk.js": "/om-raja-portfolio/static/js/64.7e8463d4.chunk.js",
     "static/css/769.39e188c4.chunk.css": "/om-raja-portfolio/static/css/769.39e188c4.chunk.css",
@@ -18,7 +18,7 @@
     "index.html": "/om-raja-portfolio/index.html",
     "static/media/talksCardBack.svg": "/om-raja-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.c9056e00.css.map": "/om-raja-portfolio/static/css/main.c9056e00.css.map",
-    "main.7efe5c75.js.map": "/om-raja-portfolio/static/js/main.7efe5c75.js.map",
+    "main.b7811977.js.map": "/om-raja-portfolio/static/js/main.b7811977.js.map",
     "64.c7010ee8.chunk.css.map": "/om-raja-portfolio/static/css/64.c7010ee8.chunk.css.map",
     "64.7e8463d4.chunk.js.map": "/om-raja-portfolio/static/js/64.7e8463d4.chunk.js.map",
     "769.39e188c4.chunk.css.map": "/om-raja-portfolio/static/css/769.39e188c4.chunk.css.map",
@@ -26,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.c9056e00.css",
-    "static/js/main.7efe5c75.js"
+    "static/js/main.b7811977.js"
   ]
 }
