@@ -31,8 +31,8 @@ export default function Contact() {
             <SocialMedia />
           </div>
 
-          {/* RIGHT SIDE – FORM */}
-          <div className="contact-card">
+          {/* RIGHT SIDE FORM */}
+          <div className={isDark ? "contact-card dark-mode" : "contact-card"}>
             <h2>Send a Message</h2>
 
             <form
@@ -58,7 +58,7 @@ export default function Contact() {
                 name="message"
                 placeholder="Your Message"
                 required
-              ></textarea>
+              />
 
               <button type="submit">Send Message</button>
             </form>

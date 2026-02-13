@@ -60,7 +60,7 @@ I enjoy learning by building and continuously improving my work.
 om-raja-portfolio/
 ├── public/
 │   └── resume/
-│       └── Om_Raja_Resume_2025.pdf
+│       └── Om_Raja_Resume.pdf
 ├── src/
 │   ├── assets/
 │   ├── components/
