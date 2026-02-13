@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/om-raja-portfolio/static/css/main.2f6659b5.css",
-    "main.js": "/om-raja-portfolio/static/js/main.85d245f6.js",
+    "main.css": "/om-raja-portfolio/static/css/main.7610bf01.css",
+    "main.js": "/om-raja-portfolio/static/js/main.21609fd2.js",
     "static/css/64.c7010ee8.chunk.css": "/om-raja-portfolio/static/css/64.c7010ee8.chunk.css",
     "static/js/64.7e8463d4.chunk.js": "/om-raja-portfolio/static/js/64.7e8463d4.chunk.js",
     "static/css/769.39e188c4.chunk.css": "/om-raja-portfolio/static/css/769.39e188c4.chunk.css",
@@ -13,18 +13,19 @@
     "static/media/certificate.png": "/om-raja-portfolio/static/media/certificate.6a26cdc5b12a7a4ce979.png",
     "static/media/manOnTable.svg": "/om-raja-portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/developerActivity.svg": "/om-raja-portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/mit-logo.jpeg": "/om-raja-portfolio/static/media/mit-logo.c92a8b4ab020be56e314.jpeg",
     "static/media/skill.svg": "/om-raja-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/om-raja-portfolio/index.html",
     "static/media/talksCardBack.svg": "/om-raja-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.2f6659b5.css.map": "/om-raja-portfolio/static/css/main.2f6659b5.css.map",
-    "main.85d245f6.js.map": "/om-raja-portfolio/static/js/main.85d245f6.js.map",
+    "main.7610bf01.css.map": "/om-raja-portfolio/static/css/main.7610bf01.css.map",
+    "main.21609fd2.js.map": "/om-raja-portfolio/static/js/main.21609fd2.js.map",
     "64.c7010ee8.chunk.css.map": "/om-raja-portfolio/static/css/64.c7010ee8.chunk.css.map",
     "64.7e8463d4.chunk.js.map": "/om-raja-portfolio/static/js/64.7e8463d4.chunk.js.map",
     "769.39e188c4.chunk.css.map": "/om-raja-portfolio/static/css/769.39e188c4.chunk.css.map",
     "769.42d249ef.chunk.js.map": "/om-raja-portfolio/static/js/769.42d249ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f6659b5.css",
-    "static/js/main.85d245f6.js"
+    "static/css/main.7610bf01.css",
+    "static/js/main.21609fd2.js"
   ]
 }
